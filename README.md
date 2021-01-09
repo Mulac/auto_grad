@@ -1,2 +1,6 @@
-# auto_grad
-A lightweight Go implementation of automatic differentiation as used in Pytorch.
+# gimli
+A Von Neumann machine.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/geohot/tinygrad/master/docs/logo.png">
+</p>
